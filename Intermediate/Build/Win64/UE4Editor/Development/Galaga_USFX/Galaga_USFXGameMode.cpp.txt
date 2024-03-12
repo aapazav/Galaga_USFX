@@ -15,3 +15,5 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\Galaga_USFXPawn.generated.h
 C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Source\Galaga_USFX\NaveEnemiga.h
 C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemiga.generated.h
+C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaCazador.h
+C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaCazador.generated.h

@@ -21,10 +21,8 @@ private:
 	float danoProducido;
 	FString nombre;
 	float tiempoDisparo;
-	float posicionX;
-	float posicionY;
-	float posicionZ;
 	FVector posicion;
+
 public:
 	// Getters 
 	FORCEINLINE float GetResistencia() const { return resistencia; }
@@ -32,9 +30,7 @@ public:
 	FORCEINLINE float GetDanoProducido() const { return danoProducido; }
 	FORCEINLINE FString GetNombre() const { return nombre; }
 	FORCEINLINE float GetTiempoDisparo() const { return tiempoDisparo; }
-	FORCEINLINE float GetPosicionX() const { return posicionX; }
-	FORCEINLINE float GetPosicionY() const { return posicionY; }
-	FORCEINLINE float GetPosicionZ() const { return posicionZ; }
+	FORCEINLINE FVector GetPosicion() const { return posicion; }
 
 	// Setters
 	FORCEINLINE void SetResistencia(float _resistencia) { resistencia = _resistencia; }
@@ -42,9 +38,7 @@ public:
 	FORCEINLINE void SetDanoProducido(float _danoProducido) { danoProducido = _danoProducido; }
 	FORCEINLINE void SetNombre(FString _nombre) { nombre = _nombre; }
 	FORCEINLINE void SetTiempoDisparo(float _tiempoDisparo) { tiempoDisparo = _tiempoDisparo; }
-	FORCEINLINE void SetPosicionX(float _posicionX) { posicionX = _posicionX; }
-	FORCEINLINE void SetPosicionY(float _posicionY) { posicionY = _posicionY; }
-	FORCEINLINE void SetPosicionZ(float _posicionZ) { posicionZ = _posicionZ; }
+	FORCEINLINE void SetPosicion(FVector _posicion) { posicion = _posicion; }
 
 public:	
 	// Sets default values for this actor's properties
