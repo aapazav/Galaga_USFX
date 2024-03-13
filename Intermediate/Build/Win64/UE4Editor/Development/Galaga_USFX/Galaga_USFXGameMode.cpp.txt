@@ -17,3 +17,5 @@ C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Source\Galaga_USFX\NaveEnemiga.
 C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemiga.generated.h
 C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaCazador.h
 C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaCazador.generated.h
+C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaJefe.h
+C:\REPOSITORIO SIS 457\LABORATORIO 1\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaJefe.generated.h
